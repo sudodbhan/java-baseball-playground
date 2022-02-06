@@ -1,3 +1,28 @@
+# 숫자 야구게임 구현
+
+### 피드백 강의 수강 전 1차 구현
+
+- **PR**: https://github.com/sudodbhan/java-baseball-playground/pull/1
+
+
+- **Commit**
+  - feat: InputView, ResultView 구현 및 TestCode 작성
+  - feat: BaseBallGame의 Main Class 작성
+  - feat: BaseBallGameManager 구현 및 테스트 코드 작성
+  - feat: BaseBallGameResultMaker 구현 및 테스트 코드 작성 
+
+
+
+
+
+
+
+
+
+
+
+
+----
 ## [NEXTSTEP 플레이그라운드의 미션 진행 과정](https://github.com/next-step/nextstep-docs/blob/master/playground/README.md)
 
 ---
